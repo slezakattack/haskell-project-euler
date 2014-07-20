@@ -1,4 +1,5 @@
 -- find sum of primes under 2 million
+-- Note: This program runs slowly. Not too sure of an easier way right now.
 module Problem10 where
 main = print solve
 
