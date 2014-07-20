@@ -1,4 +1,5 @@
 -- Smallest positive number this is evenly divisible by all numbers from 1 to 20
+-- Note: this is pretty slow to run.
 module Problem5 where
 
 main = print $ solve 20
